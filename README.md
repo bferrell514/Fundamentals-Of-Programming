@@ -46,6 +46,7 @@ Week 10
 Chapter 23: Formal Semantics
 
 
+
 **Tentative Lab Topic List**
 
 1. -- Grammars
